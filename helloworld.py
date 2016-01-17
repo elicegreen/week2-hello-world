@@ -35,5 +35,5 @@ elif language == '2':
     print('Priviet Vam!')
     #this message is displayed (greeting in Russian) if user selected this language by pressing 2 as per instructions
 else: print('Ciao Amico!')
-#if none of the previous condition to what the user entered was true, the only option left is for the user to have entered the number 3
+#if none of the previous condition to what the user entered were true, the only option left is for the user to have entered the number 3
 #therefor this message (greeting in Italian) will be displayed if user selected this language by pressing 3 as per instructions
